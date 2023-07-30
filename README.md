@@ -20,6 +20,4 @@ Skills: MATLAB / Python / R / XML / SQL / Google analytics / LaTex / Microsft Of
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HaoranYu1234&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/HaoranYu1234)  
-
-![Profile views](https://gpvc.arturio.dev/HaoranYu1234)
+![GitHub metrics](https://metrics.lecoq.io/HaoranYu1234) 
