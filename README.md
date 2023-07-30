@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 ### Hi there 👋, my name is Haoran (Alex) Yu
 #### I am a student at University of Toronto
 I do projects and self-research for fun, and my majors are math and economy, with a minor in statistics. I also have some skills in software and programming language
@@ -19,9 +20,6 @@ Skills: MATLAB / Python / R / XML / SQL / Google analytics / LaTex / Microsft Of
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HaoranYu1234&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HaoranYu1234)  
-
 ![GitHub metrics](https://metrics.lecoq.io/HaoranYu1234)  
 
-![Profile views](https://gpvc.arturio.dev/HaoranYu1234)  
-![Header](./github-header-image.png)
+![Profile views](https://gpvc.arturio.dev/HaoranYu1234)
