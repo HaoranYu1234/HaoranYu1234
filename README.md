@@ -13,9 +13,6 @@ Skills: MATLAB / Python / R / XML / SQL / Google analytics / LaTex / Microsft Of
 - 😄 Pronouns: he/him/his 
 - ⚡ Fun fact: I love Star Trek and listen to audio books 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HaoranYu1234)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Haoran (Alex) Yu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Alex Big Bro Man/)  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=HaoranYu1234)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HaoranYu1234&show_icons=true)  
