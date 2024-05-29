@@ -13,8 +13,4 @@ Skills: MATLAB / Python / R / XML / SQL / Google analytics / LaTex / Microsft Of
 - 😄 Pronouns: he/him/his 
 - ⚡ Fun fact: I love Star Trek and listen to audio books 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HaoranYu1234)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HaoranYu1234&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/HaoranYu1234) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HaoranYu1234&show_icons=true) 
