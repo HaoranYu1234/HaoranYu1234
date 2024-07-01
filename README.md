@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 # Hey, I am Alex Yu 👋
 
 ## About Me
