@@ -7,10 +7,7 @@ Skills: MATLAB / Python / R / SQL / LaTex / Microsft Office
 
 - 🔭 I’m currently working on The human ECG model simulation 
 - 🌱 I’m currently learning JSON and higher level mathematics 
-- 👯 I’m looking to collaborate on Deep learning projects involving econometrics econmetrics and human characteristics 
-- 🤔 I’m looking for help with JSON and Java 
 - 📫 How to reach me: 18165241737yuhaoran@gmail.com 
 - 😄 Pronouns: he/him/his 
-- ⚡ Fun fact: I love Star Trek and listen to audio books 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HaoranYu1234&show_icons=true) 
