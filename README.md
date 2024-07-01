@@ -10,14 +10,14 @@ I aim to seamlessly integrate statistical methodologies with economic and financ
 As I progress through my academic and professional journey, I welcome connections with industry leaders, researchers, and enthusiasts who share a similar zest for these disciplines. Together, we can harness the power of mathematics to craft compelling narratives in the economic landscape.
 
 ## Skills 🧐
-- **Programming Languages & Tools:**
+- **Programming Languages & Tools:** 🛠💻
   - **Python:** Numpy, pandas, matplotlib, PyTorch, SciPy
   - **R:** Linear regression, tidyverse, dplyr, ggplot2, statistics with R
   - **MATLAB:** Basic programming and visualization
   - **LaTeX:** Fluent in typesetting academic papers and documents
   - **Microsoft Office:** Proficient in Word, Excel, and PowerPoint
 
-- **Mathematics:**
+- **Mathematics:** 📖📚📏📐
   - Basic Analysis I and II
   - Ordinary and Partial Differential Equations
   - Real and Complex Analysis
@@ -28,8 +28,8 @@ As I progress through my academic and professional journey, I welcome connection
   - Financial Mathematics
   - Linear Algebra
 
-## Contact Me
-- **Email:** [18165241737yuhaoran@gmail.com](mailto:18165241737yuhaoran@gmail.com)
-- **LinkedIn:** www.linkedin.com/in/haoranyu12
+## Contact Me 📞
+- **Email:** [18165241737yuhaoran@gmail.com](mailto:18165241737yuhaoran@gmail.com) 📧
+- **LinkedIn:** www.linkedin.com/in/haoranyu12 
 
 Feel free to reach out to me for collaboration, discussion, or any opportunities related to my fields of interest. Let's connect and create something impactful together!
