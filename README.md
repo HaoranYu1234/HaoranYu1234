@@ -9,5 +9,3 @@ Skills: MATLAB / Python / R / SQL / LaTex / Microsft Office
 - 🌱 I’m currently learning JSON and higher level mathematics 
 - 📫 How to reach me: 18165241737yuhaoran@gmail.com 
 - 😄 Pronouns: he/him/his 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HaoranYu1234&show_icons=true) 
