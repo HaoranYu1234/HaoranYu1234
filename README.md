@@ -28,7 +28,7 @@ As I progress through my academic and professional journey, I welcome connection
   - Mathematical Theory of Finance
   - Undergraduate Advanced Algebra
   - Undergraduate Abstract Algebra with Group Theory
-- **Probability and Statistics:**🎲🎰🔮
+- **Probability and Statistics:** 🎲🎰🔮
   - Mathematical Probability Theory
   - Statistical Methods for Machine Learning
   - Time Series Analysis
