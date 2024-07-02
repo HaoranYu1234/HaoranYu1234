@@ -18,21 +18,22 @@ As I progress through my academic and professional journey, I welcome connection
   - **Microsoft Office:** Proficient in Word, Excel, and PowerPoint
 
 - **Mathematics:** 📖📚📏📐
-  - Analysis I and II
+  - Undergraduate Analysis I and II
   - Ordinary and Partial Differential Equations
   - Foundations of Real and Complex Analysis
   - Abstract Mathematics
-  - Graph Theory
+  - Basic Graph Theory
   - Elementary Number Theory
   - Mathematical Modelling
   - Mathematical Theory of Finance
   - Undergraduate Advanced Algebra
+  - Undergraduate Abstract Algebra with Group Theory
 - **Probability and Statistics:**🎲🎰🔮
   - Mathematical Probability Theory
   - Statistical Methods for Machine Learning
   - Time Series Analysis
   - Methods of Data Analysis
-  - Theory of Statistical Inference and Statistical Practice
+  - Theory of Statistical Inference
 
 ## Contact Me 📞
 - **Email:** [18165241737yuhaoran@gmail.com](mailto:18165241737yuhaoran@gmail.com) 📧
