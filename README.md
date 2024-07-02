@@ -36,7 +36,7 @@ As I progress through my academic and professional journey, I welcome connection
   - Theory of Statistical Inference
 
 ## Contact Me 📞
-- **Email:** [18165241737yuhaoran@gmail.com](mailto:18165241737yuhaoran@gmail.com) 📧
+- **Email:** [18165241737yuhaoran@gmail.com](mailto:18165241737yuhaoran@gmail.com) 
 - **LinkedIn:** www.linkedin.com/in/haoranyu12 
 
 Feel free to reach out to me for collaboration, discussion, or any opportunities related to my fields of interest. Let's connect and create something impactful together!
