@@ -12,21 +12,27 @@ As I progress through my academic and professional journey, I welcome connection
 ## Skills 🧐
 - **Programming Languages & Tools:** 🛠💻
   - **Python:** Numpy, pandas, matplotlib, PyTorch, SciPy
-  - **R:** Linear regression, tidyverse, dplyr, ggplot2, statistics with R
+  - **R:** Linear regression and core tidyverse
   - **MATLAB:** Basic programming and visualization
   - **LaTeX:** Fluent in typesetting academic papers and documents
   - **Microsoft Office:** Proficient in Word, Excel, and PowerPoint
 
 - **Mathematics:** 📖📚📏📐
-  - Basic Analysis I and II
+  - Analysis I and II
   - Ordinary and Partial Differential Equations
-  - Real and Complex Analysis
+  - Foundations of Real and Complex Analysis
   - Abstract Mathematics
   - Graph Theory
   - Elementary Number Theory
   - Mathematical Modelling
-  - Financial Mathematics
-  - Linear Algebra
+  - Mathematical Theory of Finance
+  - Undergraduate Advanced Algebra
+- **Probability and Statistics:**🎲🎰🔮
+  - Mathematical Probability Theory
+  - Statistical Methods for Machine Learning
+  - Time Series Analysis
+  - Methods of Data Analysis
+  - Theory of Statistical Inference and Statistical Practice
 
 ## Contact Me 📞
 - **Email:** [18165241737yuhaoran@gmail.com](mailto:18165241737yuhaoran@gmail.com) 📧
