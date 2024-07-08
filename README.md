@@ -9,15 +9,15 @@ I aim to integrate statistical methodologies with economic and finance framework
 
 As I progress through my academic and professional journey, I welcome connections with industry leaders, researchers, and enthusiasts who share a similar zest for these disciplines. Together, we can harness the power of mathematics to craft compelling narratives in the economic landscape.
 
-## My Core Skills and Breadth 🧐
-- **Programming Languages & Tools:** 🛠💻
+## My Core Skills and Breadth 
+- **Programming Languages & Tools:** 🧑‍💻💻🖱️
   - **Python:** Numpy, pandas, matplotlib, PyTorch, SciPy
   - **R:** Linear regression and core tidyverse
   - **MATLAB:** Basic programming and visualization
   - **LaTeX:** Fluent in typesetting academic papers and documents
   - **Microsoft Office:** Proficient in Word, Excel, and PowerPoint
 
-- **Mathematics:** 📖📚📏📐
+- **Advanced Mathematics:** ✖️➕➖
   - Undergraduate Analysis I and II
   - Undergraduate Advanced Algebra
   - Abstract Mathematics
@@ -36,6 +36,11 @@ As I progress through my academic and professional journey, I welcome connection
   - Methods of Data Analysis With Regression Techniques, ANOVA, Logistic Regression, Loglinear Models, and Longitudinal Data
   - Statistical and Probabilistic Methods for Machine Learning
   - Methods of Time Series Analysis
+
+- **Economics:** 💵💶💷
+  - Financial Economics and Corporate Finance
+  - Microeconomic Theory
+  - Basic Macroeconomics Theory
 
 ## Contact Me 📞
 - **Email:** [18165241737yuhaoran@gmail.com](mailto:18165241737yuhaoran@gmail.com) 
