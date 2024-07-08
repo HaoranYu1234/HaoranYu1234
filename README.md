@@ -42,6 +42,8 @@ As I progress through my academic and professional journey, I welcome connection
   - Microeconomic Theory
   - Basic Macroeconomics Theory
 
+## Applications to The Real World
+
 ## Contact Me 📞
 - **Email:** [18165241737yuhaoran@gmail.com](mailto:18165241737yuhaoran@gmail.com) 
 - **LinkedIn:** www.linkedin.com/in/haoranyu12 
