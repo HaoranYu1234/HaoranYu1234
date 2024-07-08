@@ -19,21 +19,22 @@ As I progress through my academic and professional journey, I welcome connection
 
 - **Mathematics:** 📖📚📏📐
   - Undergraduate Analysis I and II
+  - Undergraduate Advanced Algebra
+  - Abstract Mathematics
+  - Undergraduate Abstract Algebra with Group Theory
   - Ordinary and Partial Differential Equations
   - Foundations of Real and Complex Analysis
-  - Abstract Mathematics
   - Basic Graph Theory
   - Elementary Number Theory
-  - Mathematical Modelling
-  - Mathematical Theory of Finance
-  - Undergraduate Advanced Algebra
-  - Undergraduate Abstract Algebra with Group Theory
+  - Mathematical Modelling With MATLAB
+  - Mathematical Techniques in Pricing Theory and Risk Management, including Stochastic Calculus, Financial Derivatives, Numerical Methods, and Portfolio Theory.
+  - Principles and Methods of Nonlinear Optimization
 - **Probability and Statistics:** 🎲🎰🔮
   - Mathematical Probability Theory
-  - Statistical Methods for Machine Learning
-  - Time Series Analysis
-  - Methods of Data Analysis
   - Theory of Statistical Inference
+  - Methods of Data Analysis With Regression Techniques, ANOVA, Logistic Regression, Loglinear Models, and Longitudinal Data
+  - Statistical and Probabilistic Methods for Machine Learning
+  - Methods of Time Series Analysis
 
 ## Contact Me 📞
 - **Email:** [18165241737yuhaoran@gmail.com](mailto:18165241737yuhaoran@gmail.com) 
