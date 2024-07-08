@@ -32,7 +32,7 @@ As I progress through my academic and professional journey, I welcome connection
 
 - **Probability and Statistics:** 🎲🎰🔮
   - Mathematical Probability Theory
-  - Theory of Statistical Inference
+  - Statistical Inference Theory
   - Methods of Data Analysis With Regression Techniques, ANOVA, Logistic Regression, Loglinear Models, and Longitudinal Data
   - Statistical and Probabilistic Methods for Machine Learning
   - Methods of Time Series Analysis
