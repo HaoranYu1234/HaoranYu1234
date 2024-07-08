@@ -9,7 +9,7 @@ I aim to seamlessly integrate statistical methodologies with economic and financ
 
 As I progress through my academic and professional journey, I welcome connections with industry leaders, researchers, and enthusiasts who share a similar zest for these disciplines. Together, we can harness the power of mathematics to craft compelling narratives in the economic landscape.
 
-## Skills 🧐
+## My Core Skills and Breadth 🧐
 - **Programming Languages & Tools:** 🛠💻
   - **Python:** Numpy, pandas, matplotlib, PyTorch, SciPy
   - **R:** Linear regression and core tidyverse
@@ -29,6 +29,7 @@ As I progress through my academic and professional journey, I welcome connection
   - Mathematical Modelling With MATLAB
   - Mathematical Techniques in Pricing Theory and Risk Management, including Stochastic Calculus, Financial Derivatives, Numerical Methods, and Portfolio Theory.
   - Principles and Methods of Nonlinear Optimization
+
 - **Probability and Statistics:** 🎲🎰🔮
   - Mathematical Probability Theory
   - Theory of Statistical Inference
