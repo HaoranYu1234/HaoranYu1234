@@ -27,7 +27,7 @@ As I progress through my academic and professional journey, I welcome connection
   - Basic Graph Theory
   - Elementary Number Theory
   - Mathematical Modelling With MATLAB
-  - Mathematical Techniques in Pricing Theory and Risk Management, including Stochastic Calculus, Financial Derivatives, Numerical Methods, and Portfolio Theory.
+  - Mathematical Techniques in Pricing Theory and Risk Management, including Stochastic Calculus, Financial Derivatives, Numerical Methods, and Portfolio Theory
   - Principles and Methods of Nonlinear Optimization
 
 - **Probability and Statistics:** 🎲🎰🔮
