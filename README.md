@@ -12,7 +12,7 @@ As I progress through my academic and professional journey, I welcome connection
 ## My Core Skills and Breadth 
 - **Programming Languages & Tools:** 🧑‍💻💻🖱️
   - **Python:** Numpy, pandas, matplotlib, PyTorch, SciPy
-  - **R:** Linear regression and core tidyverse
+  - **R:** Regression and core tidyverse
   - **MATLAB:** Basic programming and visualization
   - **LaTeX:** Fluent in typesetting academic papers and documents
   - **Microsoft Office:** Proficient in Word, Excel, and PowerPoint
