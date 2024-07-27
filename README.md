@@ -43,6 +43,8 @@ As I progress through my academic and professional journey, I welcome connection
   - Basic Macroeconomics Theory
 
 ## My Works In The Real World
+- Loan Default Prediction model (Currently working)
+- Human ECG simulation using Python
 
 ## Contact Me 📞
 - **Email:** [18165241737yuhaoran@gmail.com](mailto:18165241737yuhaoran@gmail.com) 
