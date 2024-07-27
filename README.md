@@ -44,7 +44,7 @@ As I progress through my academic and professional journey, I welcome connection
 
 ## My Works In The Real World
 - Loan Default Prediction model (Currently working)
-- Human ECG simulation using Python (Temporaliy withdraw from the project, continue in the future)
+- Human ECG Simulation Using Python (Temporaliy withdraw from the project, continue in the future)
 
 ## Contact Me 📞
 - **Email:** [18165241737yuhaoran@gmail.com](mailto:18165241737yuhaoran@gmail.com) 
