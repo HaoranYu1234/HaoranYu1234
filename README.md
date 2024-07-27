@@ -10,7 +10,7 @@ I aim to integrate statistical methodologies with economic and finance framework
 As I progress through my academic and professional journey, I welcome connections with industry leaders, researchers, and enthusiasts who share a similar zest for these disciplines. Together, we can harness the power of mathematics to craft compelling narratives in the economic landscape.
 
 ## My Core Skills and Breadth 
-- **Programming Languages & Tools:** 🧑‍💻💻🖱️
+- **Programming Languages & Tools:** 🧑‍💻🖱️
   - **Python:** Numpy, pandas, matplotlib, PyTorch, SciPy
   - **R:** Regression and core tidyverse
   - **MATLAB:** Basic programming and visualization
